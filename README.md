@@ -1,6 +1,6 @@
 <h2>Hi, I'm Yousef Ahmed! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
 
-<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="230" />
 
 <p><em>Self-taught Full Stack Web Developer 🇪🇬</em></p>
 
@@ -16,19 +16,10 @@
 
 ---
 
-### 📂 My Projects
-
-- 🎵 [Spotify Clone](https://your-project-link.com) — Full-stack music streaming app  
-- 🛒 E-commerce App — Next.js frontend + NestJS backend  
-- 🌐 Portfolio Website — Built with React and Tailwind CSS
-
----
-
 ### 📫 Contact Me
 
-- 📧 Email: yousef.ahmed@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
-- 💻 [GitHub](https://github.com/YOUR-USERNAME)  
+- 📧 Email: **yousef.ahmedv7@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/yousef-ahmed-dev/)
 
 ---
 
