@@ -1,6 +1,6 @@
 <h2>Hi, I'm Yousef Ahmed! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
 
-<img align='right' src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="230" />
+<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230" />
 
 <p><em>Self-taught Full Stack Web Developer 🇪🇬</em></p>
 
