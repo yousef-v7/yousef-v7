@@ -18,6 +18,7 @@
 
 ### 📫 Contact Me
 
+- 📱 [Message me on WhatsApp](https://wa.me/201028967791?text=Hi%20Yousef%2C%20I%20saw%20your%20GitHub%20profile%20and%20wanted%20to%20connect!)
 - 📧 Email: **yousef.ahmedv7@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/yousef-ahmed-dev/)
 
