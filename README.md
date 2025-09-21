@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230" />
 
-<p><em>Self-taught Full Stack Web Developer 🇪🇬</em></p>
+<p><em>Mern Stack Developer 🇪🇬</em></p>
 
 ---
 
