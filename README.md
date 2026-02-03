@@ -8,10 +8,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on full-stack web applications using **Next.js** and **NestJS**
-- 🌱 I’ve been learning full-stack development for over a year
-- 🛠️ Tech Stack: **JavaScript**, **TypeScript**, **Node.js**, **React**, **Next.js**, **NestJS**, **MongoDB**, **PostgreSQL**
-- 👨‍💻 I enjoy building real-world apps and solving backend problems
+- ⌛ Trying to push limits
 - 🎯 My goal is to become a high-level full stack engineer and contribute to impactful products
 
 ---
