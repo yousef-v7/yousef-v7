@@ -9,7 +9,7 @@
 ### 🚀 About Me
 
 - ⌛ Trying to push limits
-- 🎯 My goal is to become a high-level full stack engineer and contribute to impactful products
+- 🎯 goal is to become a high-level full stack engineer and contribute to impactful products
 
 ---
 
